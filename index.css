@@ -122,6 +122,17 @@ nav ul li{
     width: 1000px;   
     font-family: 'Montserrat', Kanit;
 }
+.con5left{
+    margin: 0 auto;
+    justify-content:left;
+    justify-items: left;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;   
+    font-family: 'Montserrat', Kanit;
+    border: solid black;
+}
 
 .head{
     font-size: 50px;
@@ -346,6 +357,18 @@ nav ul li{
     height: 24px;
     width: 24px;
     background-color: #F1C94D;
+}
+.address{
+    font-size: 24px;
+    font-weight: 500;
+    width: 100%;
+}
+.address input{
+    margin-top: 20px;
+    padding: 5px;
+}
+.calenda{
+    margin-top: 50px;
 }
 
 
